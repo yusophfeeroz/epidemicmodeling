@@ -1,3 +1,3 @@
 # epidemicmodeling
 
-This repository contains appendices used for the manuscript entitled "Epidemiological Modeling of Health Information Dynamics on Twitter". All of the works contained in this repository was done by Feeroz R. Yusoph.
+This repository contains the Jupyter Notebook for getting the favorite and retweet counts for @WHO and @DOHgovph. It also contains a MATLAB Livescript for the sensitivity analysis conducted on the parameters of the TwitHComm model. The following were used for the manuscript entitled "Epidemiological Modeling of Health Information Dynamics on Twitter". All of the works contained in this repository was done by Feeroz R. Yusoph.
